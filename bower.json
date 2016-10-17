@@ -1,7 +1,7 @@
 {
   "name": "angular-lazy-bootstarp",
   "description": "Bootstarp Angular app after a few resolves",
-  "main": "lib/bootstrap.js",
+  "main": ["./src/bootstrap.js"],
   "authors": [
     "Benjamin Schuch <benjamin.schuch@covus.de>"
   ],
